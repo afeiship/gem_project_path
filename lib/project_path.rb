@@ -10,9 +10,5 @@ class ProjectPath
         end
       end
     end
-
-    def discover_current
-      File.dirname(__FILE__)
-    end
   end
 end

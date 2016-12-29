@@ -11,7 +11,6 @@ Ruby gem for project path.
 ## enjoy it
 require 'project_path'
 p ProjectPath.discover_root;
-p ProjectPath.discover_current;
 ```
 
 ## resource:
