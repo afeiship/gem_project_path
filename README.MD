@@ -1,4 +1,4 @@
-# gem_project_path
+# project_path
 Ruby gem for project path.
 
 ## usage:
