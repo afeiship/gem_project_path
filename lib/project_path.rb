@@ -1,7 +1,7 @@
 require "project_path/version"
 
-module ProjectPath
-  def discover_root
+class ProjectPath
+  def self.discover_root
     if Dir.glob('.git').length  == 1
       Dir.pwd
     else
