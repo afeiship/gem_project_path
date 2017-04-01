@@ -6,7 +6,7 @@ Ruby gem for project path.
 ## create Gemfile:
 
 ## Add below contents to file:
-# gem 'project_path', git: 'git@github.com:afeiship/gem_project_path.git', submodules: true
+# gem 'project_path', git: 'git@github.com:afeiship/project_path.git', submodules: true
 
 ## enjoy it
 require 'project_path'
